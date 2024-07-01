@@ -1,0 +1,5 @@
+/home/nyx/Desktop/VideoPlayer/build/CMakeFiles/VideoPlayer.dir
+/home/nyx/Desktop/VideoPlayer/build/CMakeFiles/edit_cache.dir
+/home/nyx/Desktop/VideoPlayer/build/CMakeFiles/rebuild_cache.dir
+/home/nyx/Desktop/VideoPlayer/build/CMakeFiles/VideoPlayer_autogen_timestamp_deps.dir
+/home/nyx/Desktop/VideoPlayer/build/CMakeFiles/VideoPlayer_autogen.dir

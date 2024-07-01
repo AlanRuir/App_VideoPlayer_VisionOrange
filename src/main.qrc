@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>main.qml</file>
+    <file>vision_orange.png</file>
+</qresource>
+</RCC>

@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/nyx/Desktop/VideoPlayer/build/VideoPlayer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/nyx/Desktop/VideoPlayer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/nyx/Desktop/VideoPlayer/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/nyx/Desktop/VideoPlayer",
+	"CMAKE_SOURCE_DIR" : "/home/nyx/Desktop/VideoPlayer",
+	"INCLUDE_DIR" : "/home/nyx/Desktop/VideoPlayer/build/VideoPlayer_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/nyx/Desktop/VideoPlayer/src/vision_orange.png",
+		"/home/nyx/Desktop/VideoPlayer/src/main.qml"
+	],
+	"LOCK_FILE" : "/home/nyx/Desktop/VideoPlayer/build/CMakeFiles/VideoPlayer_autogen.dir/AutoRcc_main_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "main" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_main.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/nyx/Desktop/VideoPlayer/build/CMakeFiles/VideoPlayer_autogen.dir/AutoRcc_main_UVLADIE3JM_Used.txt",
+	"SOURCE" : "/home/nyx/Desktop/VideoPlayer/src/main.qrc",
+	"VERBOSITY" : 0
+}

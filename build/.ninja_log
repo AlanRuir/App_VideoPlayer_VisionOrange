@@ -1,0 +1,17 @@
+# ninja log v5
+137	145	1718357084021048334	/home/nyx/Apps/VideoPlayer/build/AutoCityVideoPlayer_autogen/UVLADIE3JM/qrc_main.cpp	4827571d8c4f2be4
+0	42	1718442751854476663	build.ninja	eaf56b843d895aad
+1	137	1718441824073991135	/home/nyx/Apps/VideoPlayer/build/AutoCityVideoPlayer_autogen/timestamp	854f17a121c6d2f7
+1	137	1718441824073991135	/home/nyx/Apps/VideoPlayer/build/AutoCityVideoPlayer_autogen/mocs_compilation.cpp	854f17a121c6d2f7
+0	122	1718442754726293706	VideoPlayer_autogen/timestamp	9784fc51b743947f
+0	122	1718442754726293706	VideoPlayer_autogen/mocs_compilation.cpp	9784fc51b743947f
+0	122	1718442754726293706	/home/nyx/Desktop/VideoPlayer/build/VideoPlayer_autogen/timestamp	9784fc51b743947f
+0	122	1718442754726293706	/home/nyx/Desktop/VideoPlayer/build/VideoPlayer_autogen/mocs_compilation.cpp	9784fc51b743947f
+123	156	1718442754766291215	VideoPlayer_autogen/UVLADIE3JM/qrc_main.cpp	73d02d31c85b8ad
+123	156	1718442754766291215	/home/nyx/Desktop/VideoPlayer/build/VideoPlayer_autogen/UVLADIE3JM/qrc_main.cpp	73d02d31c85b8ad
+157	605	1718442755214263568	CMakeFiles/VideoPlayer.dir/VideoPlayer_autogen/UVLADIE3JM/qrc_main.cpp.o	dcc567e77c6d042e
+157	778	1718442755386253061	CMakeFiles/VideoPlayer.dir/src/video_frame_provider.cpp.o	34c42559af92f1ea
+156	819	1718442755430250372	CMakeFiles/VideoPlayer.dir/VideoPlayer_autogen/mocs_compilation.cpp.o	c6088919ebcccca7
+157	845	1718442755454248907	CMakeFiles/VideoPlayer.dir/src/main.cpp.o	91e60a30d4cca2ab
+157	946	1718442755554242797	CMakeFiles/VideoPlayer.dir/src/video_player_controller.cpp.o	154581969ad68fce
+946	1260	1718442755866223738	VideoPlayer	2a84d55cc078eea3
